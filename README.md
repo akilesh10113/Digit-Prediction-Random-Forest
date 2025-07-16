@@ -27,9 +27,6 @@ This is a **multi-class classification** problem.
 - Predicting on new input values (optional)
 
 📃 requirements.txt
-- text
-- Copy
-- Edit
 - numpy
 - pandas
 - scikit-learn
